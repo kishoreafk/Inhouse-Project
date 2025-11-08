@@ -215,32 +215,5 @@ The application requires webcam access for attention monitoring. Ensure your bro
 4. **AI Interaction**: Generate quizzes, summaries, or ask questions about the content
 5. **Distraction Handling**: When distracted, the system automatically generates quizzes to reinforce learning
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Google Gemini AI** for powering the intelligent learning features
-- **OpenCV** for computer vision capabilities
-- **YouTube** for video content and transcript APIs
-- **React & Vite** communities for excellent development tools
-
-## 📞 Support
-
-For questions or issues:
-- Open an issue on GitHub
-- Check the existing documentation
-- Review the API documentation above
-
----
 
 **Built with ❤️ for enhanced learning experiences**
