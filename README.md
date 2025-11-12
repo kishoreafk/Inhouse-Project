@@ -2,7 +2,13 @@
 
 An intelligent video learning platform that combines AI-driven quiz generation, real-time attention tracking, and interactive learning experiences to enhance educational outcomes.
 
-![SmartLearn Architecture](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=SmartLearn+Architecture)
+## 📸 Screenshots
+
+### AI Assistant First Page
+![AI Assistant First Page](./img/AI%20Assistant%20First%20Page.png)
+
+### AI Assistant Home Page
+![AI Assistant Home Page](./img/AI%20Assistant%20Home%20Page.png)
 
 ## ✨ Features
 
