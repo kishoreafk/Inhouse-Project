@@ -5,10 +5,10 @@ An intelligent video learning platform that combines AI-driven quiz generation, 
 ## 📸 Screenshots
 
 ### AI Assistant First Page
-![AI Assistant First Page](./img/AI%20Assistant%20First%20Page.png)
+![AI Learning Assistant Home Page](./img/AI%20Assistant%20First%20Page.png)
 
 ### AI Assistant Home Page
-![AI Assistant Home Page](./img/AI%20Assistant%20Home%20Page.png)
+![](./img/AI%20Assistant%20Home%20Page.png)
 
 ## ✨ Features
 
